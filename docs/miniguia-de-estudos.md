@@ -22,7 +22,15 @@
 
 📚 2. Glossário de Conceitos-Chave
 
-TermoDefinição DescomplicadaExemplo PráticoTaxa SelicOs "juros básicos" do Brasil definidos pelo Banco Central.Se a Selic está em 10% ao ano, investimentos em Tesouro Selic renderão próximo a isso.CDIRendimento de referência dos bancos, quase idêntico à Selic.Um CDB de 100% do CDI rende quase o mesmo que o Tesouro Selic.FGCFundo Garantidor de Crédito. Um "seguro" que cobre até R$ 250 mil por CPF se o banco falir.Garante a segurança ao investir em CDBs de bancos médios.Valor IntrínsecoO valor REAL de uma empresa baseado em seus lucros e ativos, e não no preço do momento.Uma ação vale R$ 20,00 no papel, mas é negociada por R$ 12,00 na crise.Sr. MercadoMetáfora de Graham para as oscilações diárias da bolsa e a emoção dos investidores.Ignorar o pânico diário da bolsa e focar nos fundamentos da empresa.
+| Termo           | Definição Descomplicada                                                                 | Exemplo Prático                                                                 |
+|-----------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Taxa Selic      | Os "juros básicos" do Brasil definidos pelo Banco Central.                              | Se a Selic está em 10% ao ano, investimentos em Tesouro Selic renderão próximo a isso. |
+| CDI             | Rendimento de referência dos bancos, quase idêntico à Selic.                            | Um CDB de 100% do CDI rende quase o mesmo que o Tesouro Selic.                  |
+| FGC             | Fundo Garantidor de Crédito. Um "seguro" que cobre até R$ 250 mil por CPF se o banco falir. | Garante a segurança ao investir em CDBs de bancos médios.                       |
+| Valor Intrínseco| O valor REAL de uma empresa baseado em seus lucros e ativos, e não no preço do momento. | Uma ação vale R$ 20,00 no papel, mas é negociada por R$ 12,00 na crise.         |
+| Sr. Mercado     | Metáfora de Graham para as oscilações diárias da bolsa e a emoção dos investidores.      | Ignorar o pânico diário da bolsa e focar nos fundamentos da empresa.            |
+
+
 
 
 ---
