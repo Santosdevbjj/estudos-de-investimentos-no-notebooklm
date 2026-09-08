@@ -1,3 +1,10 @@
+Bootcamp Bradesco - GenAI, Dados & Cyber.
+
+<img width="106" height="120" alt="bradesco-bootcamp005" src="https://github.com/user-attachments/assets/3d7d347d-2b12-42d3-969c-2c9a386be64c" />
+
+
+---
+
 # 📈 Guia Prático de Investimentos com NotebookLM: Do Zero ao Value Investing
 
 [![Bootcamp Bradesco](https://img.shields.io/badge/Bootcamp-Bradesco%20--%20GenAI%2C%20Dados%20%26%20Cyber-red?style=for-the-badge)](https://www.dio.me/)
@@ -84,7 +91,7 @@ Para obter respostas de alta fidelidade e sem "alucinações", foram desenvolvid
 
 ---
 
---- 
+
    
 **Autor:** Sérgio Santos — Cientista de Dados | Ambientes Críticos e Governança de Dados
 
