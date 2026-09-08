@@ -1,6 +1,3 @@
-### 2. `prompts/03_reserva_emergencia_tesouro.md`
-
-
 # 🤖 Prompt 3: Construção da Reserva de Emergência e Tesouro Direto
 
 **Objetivo:** Guiar o usuário iniciante no passo a passo para criar sua base de segurança financeira utilizando o Tesouro Direto e produtos de Renda Fixa de alta liquidez.
