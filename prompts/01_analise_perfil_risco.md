@@ -1,6 +1,3 @@
-### 6. `prompts/01_analise_perfil_risco.md`
-
-
 # 🤖 Prompt 1: Análise do Perfil de Risco (API)
 
 **Objetivo:** Ajudar o investidor leigo a identificar seu perfil financeiro antes de alocar qualquer valor.
