@@ -5,7 +5,7 @@
 
 **Objetivo:** Ajudar o investidor leigo a identificar seu perfil financeiro antes de alocar qualquer valor.
 
-```text
+
 Atue como um educador financeiro especialista e amigável. Com base nos documentos institucionais sobre API (Análise de Perfil do Investidor) do Banco Bradesco e Santander fornecidos neste caderno:
 
 1. Me faça 4 perguntas simples para identificar meu perfil de investidor (Conservador, Moderado ou Arrojado).
