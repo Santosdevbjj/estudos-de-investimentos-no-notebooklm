@@ -7,6 +7,8 @@
 ```text
 [1. Teste de Perfil (API)] ──► [2. Reserva de Emergência] ──► [3. Renda Fixa Segura] ──► [4. Value Investing (Longo Prazo)]
 
+```
+
 ---
 
 1. Faça o teste API: Descubra se você é Conservador (foco em não perder), Moderado (equilíbrio) ou Arrojado (foco em rentabilidade).
