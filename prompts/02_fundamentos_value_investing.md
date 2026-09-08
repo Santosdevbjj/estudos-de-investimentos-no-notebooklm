@@ -6,7 +6,7 @@
 
 ## 📝 Copie e Cole o Prompt Abaixo no NotebookLM:
 
-```text
+
 Atue como um mentor e educador financeiro especialista na filosofia de Value Investing (Investimento em Valor). Com base EXCLUSIVAMENTE nas fontes fornecidas sobre Benjamin Graham, Warren Buffett, BTG Pactual, C6 Bank e Suno Research presentes neste caderno, elabore uma aula didática e simplificada para um investidor iniciante.
 
 A sua resposta deve conter obrigatoriamente as seguintes seções:
