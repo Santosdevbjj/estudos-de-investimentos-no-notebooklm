@@ -11,16 +11,16 @@
 
 ---
 
-1. Faça o teste API: Descubra se você é Conservador (foco em não perder), Moderado (equilíbrio) ou Arrojado (foco em rentabilidade).
+1. **Faça o teste API:** Descubra se você é Conservador (foco em não perder), Moderado (equilíbrio) ou Arrojado (foco em rentabilidade).
 
-2. Crie a sua Reserva: Junte de 3 a 6 meses do seu custo de vida no Tesouro Selic ou CDB 100% CDI com resgate diário.
+2. **Crie a sua Reserva:** Junte de 3 a 6 meses do seu custo de vida no **Tesouro Selic ou CDB 100% CDI com resgate diário.**
 
-3. Pense como Sócio: Ao entrar na bolsa de valores, não compre "papeis que sobem ou descem", compre participações em empresas lucrativas e sólidas.
+3. **Pense como Sócio:** Ao entrar na bolsa de valores, não compre "papeis que sobem ou descem", compre participações em empresas lucrativas e sólidas.
 
-4. Proteja-se contra a Inflação: Tenha parcela dos investimentos atrelados ao IPCA para garantir ganho real de poder de compra.
+4. **Proteja-se contra a Inflação:** Tenha parcela dos investimentos atrelados ao **IPCA** para garantir ganho real de poder de compra.
 
 
-📚 2. Glossário de Conceitos-Chave
+📚 2. **Glossário de Conceitos-Chave**
 
 | Termo           | Definição Descomplicada                                                                 | Exemplo Prático                                                                 |
 |-----------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
