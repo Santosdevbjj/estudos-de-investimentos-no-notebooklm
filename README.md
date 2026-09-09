@@ -12,7 +12,7 @@ Bootcamp Bradesco - GenAI, Dados & Cyber.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 > **Projeto Prático do Bootcamp Bradesco - GenAI, Dados & Cyber (DIO)**  
-> **Objetivo:** Capagitar investidores iniciantes/leigos a tomarem decisões financeiras corretas, seguras e fundamentadas através do aprendizado ativo utilizando a Inteligência Artificial do Google (NotebookLM).
+> **Objetivo:** Capacitar investidores iniciantes/leigos a tomarem decisões financeiras corretas, seguras e fundamentadas através do aprendizado ativo utilizando a Inteligência Artificial do Google (NotebookLM).
 
 ---
 
