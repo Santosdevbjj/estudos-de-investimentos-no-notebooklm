@@ -91,7 +91,12 @@ Para obter respostas de alta fidelidade e sem "alucinações", foram desenvolvid
 
 ---
 ##  6. Acesse o  meu NotebookLM
+
+
+  ```
       https://notebook.google.com/notebook/e47b9a79-3c6d-4123-8ffa-532268f5eff9
+ ```
+
       
 
 ---
