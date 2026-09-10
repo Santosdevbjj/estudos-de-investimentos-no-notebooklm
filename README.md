@@ -125,7 +125,6 @@ Como efeito colateral direto do processo de documentação das falhas de prompt 
 
 ---
 
-> "Para virar um resolvedor de problemas, você tem que mostrar que resolve problemas com a ferramenta, e não que apenas usa a ferramenta." — Meigarom Lopes
 
 **Autor:** Sérgio Santos — Cientista de Dados | Ambientes Críticos e Governança de Dados
 
